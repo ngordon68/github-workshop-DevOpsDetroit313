@@ -1,4 +1,4 @@
-# github-workshop
+# github-workshop ([Slides](https://docs.google.com/presentation/d/1KP-kQ0S6bS6LqYMv9t7-A74-4ku86UUQ-LMRLMA414s/edit?usp=sharing) 🖼️)
 Workshop example repo for getting familiar with GitHub!
 
 Here are a few pointers for getting started with Git / GitHub:
