@@ -32,4 +32,4 @@ Here are a few pointers for getting started with Git / GitHub:
    - Add a new issue with the title `Add more information about the GitHub workshop` and give it any description.
 - Fork a repository.
    - Go to https://github.com/dearborn-coding-club/website-base-backend and fork it using the icon in the top right.
-   - [🥇Extra Credit] 
+   - [🥇Extra Credit] Clone your forked repository, make a small change the readme, create a pull request, and point it at the original repository. Feel free to ask for help here!!
